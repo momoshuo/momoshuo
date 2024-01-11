@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![momoshuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=momoshuo&count_private=true)
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=momoshuo&theme=minimal" />
+</div>
